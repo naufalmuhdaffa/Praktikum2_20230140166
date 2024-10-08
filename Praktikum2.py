@@ -8,6 +8,6 @@ print('Hello,'+Name)
 # baris 1: deklarasi variabel Name, diikuti outputnya, baris 2: menampilkan "Hello," beserta variabel Name  
 
 """
-Deklarasi variabel age, meminta user menginputkan age.
-Menampilkan variable age.
+Baris 1: Deklarasi variabel age, meminta user menginputkan age.
+Baris 2: Menampilkan variable age.
 """
